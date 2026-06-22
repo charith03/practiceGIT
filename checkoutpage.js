@@ -4,5 +4,6 @@ class Checkout{
     }
     async Checkout(){
         console.log("checkout page version")
+        console.log("github version")
     }
 }
