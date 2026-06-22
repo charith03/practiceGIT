@@ -3,6 +3,6 @@ class Cart{
         this.page = page
     }
     async Cart(){
-        console.log('this was cart function')
+        console.log('Cart function')
     }
 }
