@@ -3,6 +3,6 @@ class Bill{
         this.page = page
     }
     async Bill(){
-        console.log('this was Bill function')
+        console.log('this was Bill feature function')
     }
 }
