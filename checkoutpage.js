@@ -3,6 +3,6 @@ class Checkout{
         this.page = page
     }
     async Checkout(){
-        console.log("checkout feature branch version")
+        console.log("checkout page version")
     }
 }
