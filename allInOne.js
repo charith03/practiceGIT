@@ -9,12 +9,12 @@ class All{
         console.log("this is logout function")
     }
     async inventory(){
-        console.log("this is inventory page")
+        console.log("this is inventory session page")
     }
     async cart(){
-        console.log("this is cart page")
+        console.log("this is cart session page")
     }
     async checkout(){
-        console.log("this is checkout page")
+        console.log("this is checkout session page")
     }
 }
